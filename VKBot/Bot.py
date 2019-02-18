@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 import requests
 import vk_api
 import numpy as np
